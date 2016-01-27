@@ -1,0 +1,51 @@
+id,abbrev,state,capitol,latitude,longitude,population,
+1,AL,Alabama,Montgomery,32.380120,-86.300629,205764,http://www.50states.com/facts/alabama.htm#.VqgcTsdYzzI
+2,AK,Alaska,Juneau,58.299740,-134.406794,31275,http://www.50states.com/facts/alaska.htm#.VqgcecdYzzI
+4,AZ,Arizona,Phoenix,33.448260,-112.075774,1445632,http://www.50states.com/facts/arizona.htm#.VqgdCsdYzzI
+5,AR,Arkansas,Little Rock,34.748655,-92.274494,193524,http://www.50states.com/facts/arkansas.htm#.VqgdVMdYzzI
+6,CA,California,Sacramento,38.579065,-121.491014,466488,http://www.50states.com/facts/california.htm#.VqgdacdYzzI
+8,CO,Colorado,Denver,39.740010,-104.992259,600158,http://www.50states.com/facts/colorado.htm#.VqgdfMdYzzI
+9,CT,Connecticut,Hartford,41.763325,-72.674069,124775,http://www.50states.com/facts/connecticut.htm#.VqgdnMdYzzI
+10,DE,Delaware,Dover,39.158035,-75.524734,36047,http://www.50states.com/facts/delaware.htm#.VqgdscdYzzI
+12,FL,Florida,Tallahassee,30.439775,-84.280649,181376,http://www.50states.com/facts/florida.htm#.VqgdzsdYzzI
+13,GA,Georgia,Atlanta,33.748315,-84.391109,420003,http://www.50states.com/facts/georgia.htm#.Vqgem8dYzzI
+15,HI,Hawaii,Honolulu,21.304770,-157.857614,337256,http://www.50states.com/facts/hawaii.htm#.Vqgew8dYzzI
+16,ID,Idaho,Boise,43.606980,-116.193409,205671,http://www.50states.com/facts/idaho.htm#.Vqge1MdYzzI
+17,IL,Illinois,Springfield,39.801055,-89.643604,116250,http://www.50states.com/facts/illinois.htm#.VqgfKcdYzzI
+18,IN,Indiana,Indianapolis,39.766910,-86.149964,820445,http://www.50states.com/facts/indiana.htm#.VqgfPMdYzzI
+19,IA,Iowa,Des Moines,41.589790,-93.615659,203433,http://www.50states.com/facts/iowa.htm#.VqgfV8dYzzI
+20,KS,Kansas,Topeka,39.049285,-95.671184,127473,http://www.50states.com/facts/kansas.htm#.VqgfbcdYzzI
+21,KY,Kentucky,Frankfort,38.195070,-84.878694,25527,http://www.50states.com/facts/kentucky.htm#.Vqgff8dYzzI
+22,LA,Louisiana,Baton Rouge,30.443345,-91.186994,229493,http://www.50states.com/facts/louisiana.htm#.VqgfkMdYzzI
+23,ME,Maine,Augusta,44.318036,-69.776218,19136,http://www.50states.com/facts/maine.htm#.VqgfoMdYzzI
+24,MD,Maryland,Annapolis,38.976700,-76.489934,38394,http://www.50states.com/facts/maryland.htm#.VqgfscdYzzI
+25,MA,Massachusetts,Boston,42.358635,-71.056699,617594,http://www.50states.com/facts/massachusetts.htm#.VqgfyMdYzzI
+26,MI,Michigan,Lansing,42.731940,-84.552249,114297,http://www.50states.com/facts/michigan.htm#.VqjfBsdYzzI
+27,MN,Minnesota,Saint Paul,44.943829,-93.093326,285068,http://www.50states.com/facts/minnesota.htm#.VqjfKMdYzzI
+28,MS,Mississippi,Jackson,32.298690,-90.180489,173514,http://www.50states.com/facts/mississippi.htm#.VqjfOsdYzzI
+29,MO,Missouri,Jefferson City,38.577515,-92.177839,43079,http://www.50states.com/facts/missouri.htm#.VqjfTsdYzzI
+30,MT,Montana,Helana,46.589760,-112.021202,28190,http://www.50states.com/facts/montana.htm#.VqjfasdYzzI
+31,NE,Nebraska,Lincoln,40.813620,-96.707739,258379,http://www.50states.com/facts/nebraska.htm#.Vqjff8dYzzI
+32,NV,Nevada,Carson City,39.164885,-119.766999,55274,http://www.50states.com/facts/nevada.htm#.VqjfksdYzzI
+33,NH,New Hampshire,Concord,43.207250,-71.536604,42695,http://www.50states.com/facts/new-hampshire.htm#.Vqjfq8dYzzI
+34,NJ,New Jersey,Trenton,40.217875,-74.759404,84913,http://www.50states.com/facts/new-jersey.htm#.VqjfvcdYzzI
+35,NM,New Mexico,Santa Fe,35.691543,-105.937406,67947,http://www.50states.com/facts/new-mexico.htm#.Vqjf0MdYzzI
+36,NY,New York,Albany,42.651445,-73.755254,97856,http://www.50states.com/facts/new-york.htm#.Vqjf58dYzzI
+37,NC,North Carolina,Raleigh,35.785510,-78.642669,403892,http://www.50states.com/facts/north-carolina.htm#.Vqjf_8dYzzI
+38,ND,North Dakota,Bismarck,46.805372,-100.779334,61272,http://www.50states.com/facts/north-dakota.htm#.VqjgEsdYzzI
+39,OH,Ohio,Columbus,39.961960,-83.002984,787033,http://www.50states.com/facts/ohio.htm#.VqjgosdYzzI
+40,OK,Oklahoma,Oklahoma City,35.472015,-97.520354,579999,http://www.50states.com/facts/oklahoma.htm#.VqjguMdYzzI
+41,OR,Oregon,Salem,44.933260,-123.043814,154637,http://www.50states.com/facts/oregon.htm#.VqjhUMdYzzI
+42,PA,Pennsylvania,Harrisburg,40.259865,-76.882230,49528,http://www.50states.com/facts/pennsylvania.htm#.VqjhYMdYzzI
+44,RI,Rhode Island,Providence,41.823875,-71.411994,178042,http://www.50states.com/facts/rhode-island.htm#.VqjhisdYzzI
+45,SC,South Carolina,Columbia,33.998550,-81.045249,129272,http://www.50states.com/facts/south-carolina.htm#.VqjhoMdYzzI
+46,SD,South Dakota,Pierre,44.368924,-100.350158,13646,http://www.50states.com/facts/south-dakota.htm#.VqgQ0cdYzzI
+47,TN,Tennessee,Nashville,36.167783,-86.778365,601222,http://www.50states.com/facts/tennessee.htm#.VqjhuMdYzzI
+48,TX,Texas,Austin,30.267605,-97.742984,790390,http://www.50states.com/facts/texas.htm#.Vqjh1MdYzzI
+49,UT,Utah,Salt Lake City,40.759505,-111.888229,186440,http://www.50states.com/facts/utah.htm#.Vqjh6sdYzzI
+50,VT,Vermont,Montpelier,44.260299,-72.576264,7855,http://www.50states.com/facts/vermont.htm#.Vqjh_sdYzzI
+51,VA,Virginia,Richmond,37.540700,-77.433654,204214,http://www.50states.com/facts/virginia.htm#.VqjiFsdYzzI
+53,WA,Washington,Olympia,47.039231,-122.891366,46478,http://www.50states.com/facts/washington.htm#.VqjiJsdYzzI
+54,WV,West Virginia,Charleston,38.350195,-81.638989,51400,http://www.50states.com/facts/west-virginia.htm#.VqjiOsdYzzI
+55,WI,Wisconsin,Madison,43.072950,-89.386694,233209,http://www.50states.com/facts/wisconsin.htm#.VqjiTsdYzzI
+56,WY,Wyoming,Cheyenne,41.134815,-104.821544,59466,http://www.50states.com/facts/wyoming.htm#.VqjiXMdYzzI
